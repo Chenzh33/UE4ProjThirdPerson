@@ -1,2 +1,3 @@
 # UE4ProjThirdPerson
-Tencent Game Development Class Project
+腾讯游戏客户端公开课工程项目归档
+* 作业腾讯微云链接: https://share.weiyun.com/TBo3qbN5 密码：myk5aq
